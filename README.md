@@ -1,4 +1,4 @@
-<h1 align="center">Seja bem-vindo(a), fique à vontade!</h1>
+<h1 align="center">Seja bem-vindo(a)!</h1>
 
 <p align="center">
   Estou em busca da primeira oportunidade para aprender, evoluir e colaborar com projetos reais
