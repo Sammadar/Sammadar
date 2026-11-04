@@ -33,7 +33,7 @@ A versão pública é uma demonstração com dados fictícios.
 
 | Projeto | O que é | Stack |
 |---|---|---|
-| [ProjetoTCC](https://github.com/Sammadar/ProjetoTCC) | Trabalho de conclusão de curso: aplicação web completa com front e back separados | Angular 20 · Python |
+| [ProjetoTCC](https://github.com/Sammadar/ProjetoTCC) | TCC: plataforma de interoperabilidade em saúde que integra sistemas públicos e privados e centraliza o prontuário do paciente num único lugar | Angular 20 · Python |
 | [Streamilit_acoes](https://github.com/Sammadar/Streamilit_acoes) | Painel de carteira de ações com cotações em tempo real | Python · Streamlit · yfinance |
 | [RPA_AutomacaoPy](https://github.com/Sammadar/RPA_AutomacaoPy) | Automações: consulta de CNPJ e CEP em APIs públicas, web scraping e tratamento de imagens | Python |
 | [python-banco-dados](https://github.com/Sammadar/python-banco-dados) | CRUD em camadas (repositórios, telas) com MySQL | Python · MySQL |
