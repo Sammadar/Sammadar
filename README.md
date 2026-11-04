@@ -58,11 +58,5 @@ A versão pública é uma demonstração com dados fictícios.
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sammadar&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sammadar&layout=compact&theme=radical" alt="Top Languages" />
-</p>
-
-<p align="center">
   <img src="./profile-3d-contrib/profile-night-green.svg" alt="Contribuições" width="90%"/>
 </p>
