@@ -39,7 +39,7 @@ Angular 20 · PrimeNG · FastAPI · SQLAlchemy · MySQL<br><br>
 Menores, de estudo:
 [Streamilit_acoes](https://github.com/Sammadar/Streamilit_acoes) acompanha uma carteira de ações com cotações ao vivo ·
 [RPA_AutomacaoPy](https://github.com/Sammadar/RPA_AutomacaoPy) automatiza consultas de CNPJ e CEP e raspagem de páginas ·
-[caixa-ng](https://github.com/Sammadar/caixa-ng) é um caixa em Angular ·
+[caixa-ng](https://github.com/Sammadar/caixa-ng) é um caixa em Angular ([ao vivo](https://sammadar.github.io/caixa-ng/clientes)) ·
 [python-banco-dados](https://github.com/Sammadar/python-banco-dados) é um CRUD em camadas com MySQL.
 
 ## Com o que trabalho
