@@ -1,9 +1,11 @@
 <img src="assets/banner.svg" alt="Sammadar dos Santos — engenharia de software · sistemas de gestão para telecom" width="100%">
 
-Engenheira de Software. Trabalho em telecom, na área de projetos e processos de rede móvel, e
-cuido das melhorias e automações do setor: transformo processos que vivem em planilha e e-mail
-em sistemas que as equipes usam todo dia. Gosto de dados bem organizados, telas claras e de ver
-uma ideia chegar à produção.
+Engenheira de Software, iniciando na área de desenvolvimento. Atuo em uma operadora de
+telecomunicações, na área de projetos e processos de rede móvel, onde desenvolvo as automações
+e os sistemas internos do setor. Minha principal entrega é um sistema de gerenciamento de
+projetos usado diariamente pela equipe, que centralizou o acompanhamento dos sites 5G, com
+indicadores, metas regulatórias e relatórios automáticos. Interesse em dados, back-end e
+interfaces que resolvem o trabalho de quem usa.
 
 ## Projetos
 
