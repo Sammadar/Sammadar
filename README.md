@@ -1,8 +1,9 @@
 <img src="assets/banner.svg" alt="Sammadar dos Santos — engenharia de software · sistemas de gestão para telecom" width="100%">
 
-Faço sistemas internos para uma operadora de telecom: a equipe que coloca antenas 5G no ar
-usa um sistema que eu desenvolvi para acompanhar cada site, do candidato ao aceite. Gosto de
-pegar um processo que vive em planilha e transformar em software que a equipe usa todo dia.
+Engenheira de Software. Trabalho em telecom, na área de projetos e processos de rede móvel, e
+cuido das melhorias e automações do setor: transformo processos que vivem em planilha e e-mail
+em sistemas que as equipes usam todo dia. Gosto de dados bem organizados, telas claras e de ver
+uma ideia chegar à produção.
 
 ## Projetos
 
@@ -55,6 +56,10 @@ Menores, de estudo:
 
 Evoluindo o sistema de rollout (metas regulatórias, integrações com os sistemas de projeto da
 empresa) e terminando o CuraSystem.
+
+## Fora do trabalho
+
+Anime, principalmente One Piece: time Luffy, Robin e Zoro. As pétalas do banner são por isso.
 
 ## Contato
 
