@@ -17,10 +17,9 @@ interfaces que resolvem o trabalho de quem usa.
 <b>Sistema de Gerenciamento de Projetos</b><br><br>
 Acompanha o rollout de sites 5G: grade com régua de marcos e atrasos, ficha de edição com
 auditoria, dashboards, metas regulatórias por estado e relatórios automáticos por e-mail.
-Em produção numa operadora; a versão pública é uma demo com dados fictícios.<br><br>
+<br>
 FastAPI · MySQL · AD/LDAP · AG Grid · ECharts<br><br>
-<a href="https://sammadar.github.io/Sistema_gerenciamento_projetos/">abrir a demo</a> (admin / admin) ·
-<a href="https://github.com/Sammadar/Sistema_gerenciamento_projetos">código</a>
+
 </td>
 </tr>
 <tr>
