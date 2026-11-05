@@ -1,6 +1,7 @@
 <img src="assets/banner.svg" alt="Sammadar dos Santos — engenharia de software · sistemas de gestão para telecom" width="100%">
 
-Engenheira de Software, iniciando na área de desenvolvimento. Atuo em uma operadora de
+Engenheira de Software, formada pela Uniasselvi em janeiro de 2026 e iniciando na área de
+desenvolvimento. Atuo em uma operadora de
 telecomunicações, na área de projetos e processos de rede móvel, onde desenvolvo as automações
 e os sistemas internos do setor. Minha principal entrega é um sistema de gerenciamento de
 projetos usado diariamente pela equipe, que centralizou o acompanhamento dos sites 5G, com
