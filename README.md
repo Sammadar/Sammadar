@@ -40,12 +40,16 @@ Menores, de estudo:
 
 ## Com o que trabalho
 
-| | |
+| Área | O que uso |
 |---|---|
-| Back-end | Python, FastAPI, SQLAlchemy, MySQL, autenticação em AD/LDAP |
-| Front-end | JavaScript e TypeScript, Angular, AG Grid, ECharts, HTML e CSS sem framework |
-| Dados | SQL no dia a dia, Pandas, Power Query, integrações com APIs internas |
-| Entrega | Git, Linux, Docker, deploy em servidor próprio com homologação e produção |
+| Linguagens | Python, JavaScript, TypeScript, SQL |
+| Back-end | FastAPI, SQLAlchemy, Pydantic, autenticação em AD/LDAP |
+| Front-end | Angular e PrimeNG; HTML, CSS e JavaScript puro quando o projeto não pede framework |
+| Interface e gráficos | AG Grid, ECharts, Chart.js, FullCalendar |
+| Bancos de dados | MySQL, Oracle |
+| Dados e automação | Pandas, Power Query, Streamlit, web scraping, integração com APIs internas |
+| Ferramentas e entrega | Git, Linux, Docker, Poetry, npm, deploy em servidor próprio com homologação e produção |
+| Assistentes de IA | Claude Code e ChatGPT no dia a dia, para desenhar telas, escrever e revisar código e documentar. O que vai para produção eu leio, testo e assino |
 
 ## Agora
 
