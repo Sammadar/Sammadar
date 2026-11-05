@@ -52,15 +52,6 @@ Menores, de estudo:
 | Ferramentas e entrega | Git, Linux, Docker, Poetry, npm, deploy em servidor próprio com homologação e produção |
 | Assistentes de IA | Claude Code e ChatGPT no dia a dia, para desenhar telas, escrever e revisar código e documentar. O que vai para produção eu leio, testo e assino |
 
-## Agora
-
-Evoluindo o sistema de rollout (metas regulatórias, integrações com os sistemas de projeto da
-empresa) e terminando o CuraSystem.
-
-## Fora do trabalho
-
-Anime, principalmente One Piece: time Luffy, Robin e Zoro. As pétalas do banner são por isso.
-
 ## Contato
 
 [linkedin.com/in/sammadar-dos-santos](https://www.linkedin.com/in/sammadar-dos-santos) · [sammadar@outlook.com.br](mailto:sammadar@outlook.com.br)
